@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* shared style */
+button:hover{
+    background-color:aquamarine;
+}
+/* navbar styles starts here */
+.navbar {
+    padding: 24px 160px;
+    background-color: F5F5F5;
+}
+
+.nav-styles {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    font-size: 32px;
+    font-weight: bold;
+    padding: 31px 0;
+    width: 222px;
+    height: 38px;
+}
+
+.sign-in-btn {
+    width: 125px;
+    padding: 15px 30px;
+    margin: 24px 0;
+    border-radius: 8px;
+    border: 1px rgba(0, 106, 80, 1) solid;
+    color: #006A50;
+    background-color: white;
+    font-size: 18px;
+    font-weight: 600;
+}
+/* navbar styles ends here */
