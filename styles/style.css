@@ -12,7 +12,7 @@ button:hover{
 /* navbar styles starts here */
 .navbar {
     padding: 24px 160px;
-    background-color: F5F5F5;
+    background-color: #F5F5F5;
 }
 
 .nav-styles {
@@ -39,4 +39,55 @@ button:hover{
     font-size: 18px;
     font-weight: 600;
 }
+
 /* navbar styles ends here */
+
+/* banner style starts here */
+header{
+    background-color: #F1F1F3;
+}
+
+.banner{
+    background-color: #F1F1F3;
+}
+
+.banner-container{
+    margin: 20px 160px 80px 160px;
+    padding: 80px 100px;
+    background-color: #C6E4D6;
+    border-radius: 24px;
+    display: flex;
+    gap: 64px;
+}
+.banner-title-info{
+    margin: 117px 0;
+}
+.uptitle{
+    font-size: 24px;
+    font-weight: 500;
+    color: rgba(14, 14, 14, 0.5);
+    width: 622px;
+    margin-bottom: 16px;
+}
+.banner-title{
+    width: 622px;
+    font-size: 56px;
+    font-weight: bold;
+    color: #0E0E0E;
+    margin-bottom: 24px;
+}
+.explore-btn{
+    width: 300px;
+    padding: 17px 34px;
+    border-radius: 8px;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: #006A50;
+    border: none;
+}
+.memorial{
+    margin: 80px 0;
+    width: 474.03px;
+}
+/* banner style ends here */
