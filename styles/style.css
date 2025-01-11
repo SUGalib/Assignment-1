@@ -9,6 +9,9 @@
 button:hover{
     background-color:aquamarine;
 }
+body{
+    background-color: #F1F1F3;
+}
 /* navbar styles starts here */
 .navbar {
     padding: 24px 160px;
@@ -43,14 +46,10 @@ button:hover{
 /* navbar styles ends here */
 
 /* banner style starts here */
-header{
-    background-color: #F1F1F3;
-}
 
 .banner{
-    background-color: #F1F1F3;
+    border: none;
 }
-
 .banner-container{
     margin: 20px 160px 80px 160px;
     padding: 80px 100px;
@@ -91,3 +90,46 @@ header{
     width: 474.03px;
 }
 /* banner style ends here */
+/* pillar of Bangladesh section starts here */
+
+.pillar-section{
+    margin: 0px 160px 80px 160px;
+}
+.pillar-title{
+    width: 1280px;
+    height: 48px;
+    margin-bottom: 32px;
+    color: #0E0E0E;
+    font-size: 40px;
+    font-weight: bold;
+}
+.pillar-container{
+    display: flex;  
+
+}
+.pillar{
+    margin: 0 24px 0 0;
+    padding: 24px;
+    gap: 24px;
+    width: 1280px;
+    height: 244px;
+    background-color: white;
+    border-radius: 16px;
+
+}
+.pillar-icon{
+    margin-bottom: 24px;
+}
+.pillar-name{
+    width: 254px;
+    height: 24px;
+    color: rgba(14, 14, 14, 0.8);
+    font-weight: bold;
+    font-size: 20px;
+}
+.pillar-desc{
+    width: 254px;
+    height: 72px;
+    color: rgba(14, 14, 14, 0.7);
+    line-height: 24px;
+}
