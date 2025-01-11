@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+/* font-family: "Fira Sans", serif; */
 
 * {
     margin: 0;
@@ -29,6 +30,7 @@ body{
     padding: 31px 0;
     width: 222px;
     height: 38px;
+    font-family: "Fira Sans", serif;
 }
 
 .sign-in-btn {
@@ -41,6 +43,7 @@ body{
     background-color: white;
     font-size: 18px;
     font-weight: 600;
+    font-family: "Fira Sans", serif;
 }
 
 /* navbar styles ends here */
@@ -67,6 +70,7 @@ body{
     color: rgba(14, 14, 14, 0.5);
     width: 622px;
     margin-bottom: 16px;
+    font-family: "Fira Sans", serif;
 }
 .banner-title{
     width: 622px;
@@ -74,6 +78,7 @@ body{
     font-weight: bold;
     color: #0E0E0E;
     margin-bottom: 24px;
+    font-family: "Fira Sans", serif;
 }
 .explore-btn{
     width: 300px;
@@ -84,6 +89,7 @@ body{
     font-weight: 600;
     background-color: #006A50;
     border: none;
+    font-family: "Fira Sans", serif;
 }
 .memorial{
     margin: 80px 0;
@@ -102,17 +108,20 @@ body{
     color: #0E0E0E;
     font-size: 40px;
     font-weight: bold;
+    font-family: "Fira Sans", serif;
 }
 .pillar-container{
-    display: flex;  
+    display: flex;
+    width: 1280px;
+    height: 244px;
 
 }
 .pillar{
+    width: 302px;
+    height: 244px;
     margin: 0 24px 0 0;
     padding: 24px;
     gap: 24px;
-    width: 1280px;
-    height: 244px;
     background-color: white;
     border-radius: 16px;
 
@@ -126,6 +135,7 @@ body{
     color: rgba(14, 14, 14, 0.8);
     font-weight: bold;
     font-size: 20px;
+    font-family: "Fira Sans", serif;
 }
 .pillar-desc{
     width: 254px;
@@ -133,3 +143,208 @@ body{
     color: rgba(14, 14, 14, 0.7);
     line-height: 24px;
 }
+/* pillar of Bangladesh section starts here */
+
+/* vision of future starts here */
+.future-vision{
+    margin: 160px 160px 80px 160px;
+}
+.future-vision-headline{
+    width: 1280px;
+    height: 120px;
+    margin-bottom: 32px;
+}
+.future-vision-title{
+    width: 1280px;
+    height: 48px;
+    font-size: 40px;
+    font-size: bold;
+    color: #0E0E0E;
+    font-family: "Fira Sans", serif;
+    margin-bottom: 24px;
+}
+.future-vision-subtitle{
+    width: 1280px;
+    height: 48px;
+    line-height: 24px;
+    color: rgba(14, 14, 14, 0.7);
+    font-family: "Fira Sans", serif;
+}
+.vision-bgc-1{
+    background-color: rgba(84, 144, 245, 0.2);
+}
+.vision-bgc-2{
+    background-color: rgba(198, 228, 214, 1);
+}
+.vision-bgc-3{
+    background-color: rgba(247, 235, 207, 1);
+}
+.vision-container{
+    display: flex;
+    width: 1280px;
+    height: 325px;
+}
+.visions{
+    width: 410.67px;
+    height: 325px;
+    gap: 24px;
+    margin: 0 32px 0 0;
+    padding: 24px;
+    border-radius: 16px;
+}
+.vision-icon{
+    margin-bottom: 24px;
+}
+.vision-title{
+    width: 346.67px;
+    height: 24px;
+    font-family: "Fira Sans", serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: #0E0E0E;
+    margin-bottom: 12px;
+}
+.vision-desc{
+    width: 346.67px;
+    height: 72px;
+    line-height: 24px;
+    color: #0E0E0E;
+    font-family: "Fira Sans", serif;
+    margin-bottom: 24px;
+}
+.learn-more-btn-bgc-1{
+    background-color:#5490F5;
+}
+.learn-more-btn-bgc-2{
+    background-color:#09A15C;
+}
+.learn-more-btn-bgc-3{
+    background-color:#FFC239;
+}
+.learn-more-btn{
+    width: 122px;
+    height: 41px;
+    padding: 11px 20px;
+    border-radius: 8px;
+    color: white;
+    font-weight: 600;
+    font-family: "Fira Sans", serif;
+    border: none;
+}
+/* vision of future ends here */
+
+/* future quote starts here */
+.future-quote{
+    width: 1280px;
+    height: 256px;
+    margin-bottom: 80px;
+}
+.future-quote-container{
+    margin: 0 160px 80px 160px;
+    padding: 48px 24px;
+    background-color: white;
+    border-radius: 16px;
+    width: 1232px;
+    height: 160px;
+    
+}
+.bg-quote-sign{ 
+    background-image: url(../assets/quote-bg.png);
+    background-repeat: no-repeat;
+    background-position: 0 1192px 167px 24px;
+}
+.quote{
+    line-height: 24px;
+    width: 1232px;
+    height: 96px;
+    color: rgba(14, 14, 14, 0.8);
+    font-family: "Fira Sans", serif;
+}
+.quote-giver{
+    line-height: 24px;
+    width: 1232px;
+    height: 24px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgba(14, 14, 14, 0.8);
+    font-family: "Fira Sans", serif;
+}
+.quote-giver-job{
+    line-height: 24px;
+    width: 1232px;
+    height: 24px;
+    color: rgba(14, 14, 14, 0.6);
+    font-family: "Fira Sans", serif;
+    margin-top: 4px;
+}
+/* future quote ends here */
+
+/* opinion starts here */
+.opinions{
+    margin: 0 160px 80px 160px;
+}
+.opinion-title{
+    width: 1280px;
+    height: 48px;
+    margin-bottom: 24px;
+}
+.styled-opinion{
+    font-size: 40px;
+    font-weight: bold;
+    color:rgba(14, 14, 14, 1);
+    font-family: "Fira Sans", serif;
+}
+.opinion-table-container{
+    width: 1216px;
+    height: 290px;
+    padding: 32px;
+    background-color: white;
+    border-radius: 16px;
+}
+.opinion-table{
+    width: 1216px;
+    height: 409px;
+}
+table, td{
+    border: 1px rgba(14, 14, 14, 0.15) solid;
+    width: 100%;
+    height: 72px;
+    text-align: justify;
+    border-collapse: collapse;
+}
+   
+table{
+    border: none;
+}
+.th{
+    font-size: 20px;
+    font-weight: 600;
+    color: #0E0E0E;
+    text-align: justify;
+    padding: 20px;
+    font-family: "Fira Sans", serif;
+    column-span: 2;
+    background-color: #C6E4D6;
+    display: flex;
+    justify-content: space-between;
+    width: 1176px;
+    height: 35px;
+}
+td{
+    padding-left: 24px;
+    font-weight: 600;
+    color: #0E0E0E;
+    font-family: "Fira Sans", serif;
+}
+.agree-btn{
+    width: 152px;
+    height: 44px;
+    margin-right: 24px;
+    background-color: #C6E4D6;
+    border: 1px rgba(14, 14, 14, 1) solid;
+    border-radius: 4px;
+    font-weight: 500;
+    color: #0E0E0E;
+    font-family: "Fira Sans", serif;
+}
+/* opinion ends here */
