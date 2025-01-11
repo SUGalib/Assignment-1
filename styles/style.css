@@ -7,12 +7,14 @@
 }
 
 /* shared style */
-button:hover{
-    background-color:aquamarine;
+button:hover {
+    background-color: aquamarine;
 }
-body{
+
+body {
     background-color: #F1F1F3;
 }
+
 /* navbar styles starts here */
 .navbar {
     padding: 24px 160px;
@@ -50,10 +52,11 @@ body{
 
 /* banner style starts here */
 
-.banner{
+.banner {
     border: none;
 }
-.banner-container{
+
+.banner-container {
     margin: 20px 160px 80px 160px;
     padding: 80px 100px;
     background-color: #C6E4D6;
@@ -61,10 +64,12 @@ body{
     display: flex;
     gap: 64px;
 }
-.banner-title-info{
+
+.banner-title-info {
     margin: 117px 0;
 }
-.uptitle{
+
+.uptitle {
     font-size: 24px;
     font-weight: 500;
     color: rgba(14, 14, 14, 0.5);
@@ -72,7 +77,8 @@ body{
     margin-bottom: 16px;
     font-family: "Fira Sans", serif;
 }
-.banner-title{
+
+.banner-title {
     width: 622px;
     font-size: 56px;
     font-weight: bold;
@@ -80,7 +86,8 @@ body{
     margin-bottom: 24px;
     font-family: "Fira Sans", serif;
 }
-.explore-btn{
+
+.explore-btn {
     width: 300px;
     padding: 17px 34px;
     border-radius: 8px;
@@ -91,17 +98,20 @@ body{
     border: none;
     font-family: "Fira Sans", serif;
 }
-.memorial{
+
+.memorial {
     margin: 80px 0;
     width: 474.03px;
 }
+
 /* banner style ends here */
 /* pillar of Bangladesh section starts here */
 
-.pillar-section{
+.pillar-section {
     margin: 0px 160px 80px 160px;
 }
-.pillar-title{
+
+.pillar-title {
     width: 1280px;
     height: 48px;
     margin-bottom: 32px;
@@ -110,13 +120,15 @@ body{
     font-weight: bold;
     font-family: "Fira Sans", serif;
 }
-.pillar-container{
+
+.pillar-container {
     display: flex;
     width: 1280px;
     height: 244px;
 
 }
-.pillar{
+
+.pillar {
     width: 302px;
     height: 244px;
     margin: 0 24px 0 0;
@@ -126,10 +138,12 @@ body{
     border-radius: 16px;
 
 }
-.pillar-icon{
+
+.pillar-icon {
     margin-bottom: 24px;
 }
-.pillar-name{
+
+.pillar-name {
     width: 254px;
     height: 24px;
     color: rgba(14, 14, 14, 0.8);
@@ -137,24 +151,28 @@ body{
     font-size: 20px;
     font-family: "Fira Sans", serif;
 }
-.pillar-desc{
+
+.pillar-desc {
     width: 254px;
     height: 72px;
     color: rgba(14, 14, 14, 0.7);
     line-height: 24px;
 }
+
 /* pillar of Bangladesh section starts here */
 
 /* vision of future starts here */
-.future-vision{
+.future-vision {
     margin: 160px 160px 80px 160px;
 }
-.future-vision-headline{
+
+.future-vision-headline {
     width: 1280px;
     height: 120px;
     margin-bottom: 32px;
 }
-.future-vision-title{
+
+.future-vision-title {
     width: 1280px;
     height: 48px;
     font-size: 40px;
@@ -163,28 +181,34 @@ body{
     font-family: "Fira Sans", serif;
     margin-bottom: 24px;
 }
-.future-vision-subtitle{
+
+.future-vision-subtitle {
     width: 1280px;
     height: 48px;
     line-height: 24px;
     color: rgba(14, 14, 14, 0.7);
     font-family: "Fira Sans", serif;
 }
-.vision-bgc-1{
+
+.vision-bgc-1 {
     background-color: rgba(84, 144, 245, 0.2);
 }
-.vision-bgc-2{
+
+.vision-bgc-2 {
     background-color: rgba(198, 228, 214, 1);
 }
-.vision-bgc-3{
+
+.vision-bgc-3 {
     background-color: rgba(247, 235, 207, 1);
 }
-.vision-container{
+
+.vision-container {
     display: flex;
     width: 1280px;
     height: 325px;
 }
-.visions{
+
+.visions {
     width: 410.67px;
     height: 325px;
     gap: 24px;
@@ -192,10 +216,12 @@ body{
     padding: 24px;
     border-radius: 16px;
 }
-.vision-icon{
+
+.vision-icon {
     margin-bottom: 24px;
 }
-.vision-title{
+
+.vision-title {
     width: 346.67px;
     height: 24px;
     font-family: "Fira Sans", serif;
@@ -204,7 +230,8 @@ body{
     color: #0E0E0E;
     margin-bottom: 12px;
 }
-.vision-desc{
+
+.vision-desc {
     width: 346.67px;
     height: 72px;
     line-height: 24px;
@@ -212,16 +239,20 @@ body{
     font-family: "Fira Sans", serif;
     margin-bottom: 24px;
 }
-.learn-more-btn-bgc-1{
-    background-color:#5490F5;
+
+.learn-more-btn-bgc-1 {
+    background-color: #5490F5;
 }
-.learn-more-btn-bgc-2{
-    background-color:#09A15C;
+
+.learn-more-btn-bgc-2 {
+    background-color: #09A15C;
 }
-.learn-more-btn-bgc-3{
-    background-color:#FFC239;
+
+.learn-more-btn-bgc-3 {
+    background-color: #FFC239;
 }
-.learn-more-btn{
+
+.learn-more-btn {
     width: 122px;
     height: 41px;
     padding: 11px 20px;
@@ -231,36 +262,41 @@ body{
     font-family: "Fira Sans", serif;
     border: none;
 }
+
 /* vision of future ends here */
 
 /* future quote starts here */
-.future-quote{
+.future-quote {
     width: 1280px;
     height: 256px;
     margin-bottom: 80px;
 }
-.future-quote-container{
+
+.future-quote-container {
     margin: 0 160px 80px 160px;
     padding: 48px 24px;
     background-color: white;
     border-radius: 16px;
     width: 1232px;
     height: 160px;
-    
+
 }
-.bg-quote-sign{ 
+
+.bg-quote-sign {
     background-image: url(../assets/quote-bg.png);
     background-repeat: no-repeat;
     background-position: 0 1192px 167px 24px;
 }
-.quote{
+
+.quote {
     line-height: 24px;
     width: 1232px;
     height: 96px;
     color: rgba(14, 14, 14, 0.8);
     font-family: "Fira Sans", serif;
 }
-.quote-giver{
+
+.quote-giver {
     line-height: 24px;
     width: 1232px;
     height: 24px;
@@ -269,7 +305,8 @@ body{
     color: rgba(14, 14, 14, 0.8);
     font-family: "Fira Sans", serif;
 }
-.quote-giver-job{
+
+.quote-giver-job {
     line-height: 24px;
     width: 1232px;
     height: 24px;
@@ -277,46 +314,54 @@ body{
     font-family: "Fira Sans", serif;
     margin-top: 4px;
 }
+
 /* future quote ends here */
 
 /* opinion starts here */
-.opinions{
+.opinions {
     margin: 0 160px 80px 160px;
 }
-.opinion-title{
+
+.opinion-title {
     width: 1280px;
     height: 48px;
     margin-bottom: 24px;
 }
-.styled-opinion{
+
+.styled-opinion {
     font-size: 40px;
     font-weight: bold;
-    color:rgba(14, 14, 14, 1);
+    color: rgba(14, 14, 14, 1);
     font-family: "Fira Sans", serif;
 }
-.opinion-table-container{
+
+.opinion-table-container {
     width: 1216px;
     height: 290px;
     padding: 32px;
     background-color: white;
     border-radius: 16px;
 }
-.opinion-table{
+
+.opinion-table {
     width: 1216px;
     height: 409px;
 }
-table, td{
+
+table,
+td {
     border: 1px rgba(14, 14, 14, 0.15) solid;
     width: 100%;
     height: 72px;
     text-align: justify;
     border-collapse: collapse;
 }
-   
-table{
+
+table {
     border: none;
 }
-.th{
+
+.th {
     font-size: 20px;
     font-weight: 600;
     color: #0E0E0E;
@@ -330,13 +375,15 @@ table{
     width: 1176px;
     height: 35px;
 }
-td{
+
+td {
     padding-left: 24px;
     font-weight: 600;
     color: #0E0E0E;
     font-family: "Fira Sans", serif;
 }
-.agree-btn{
+
+.agree-btn {
     width: 152px;
     height: 44px;
     margin-right: 24px;
@@ -347,4 +394,313 @@ td{
     color: #0E0E0E;
     font-family: "Fira Sans", serif;
 }
+
 /* opinion ends here */
+
+/* recent news starts-here */
+.news {
+    width: 1280px;
+}
+
+.recent-news-headline-container {
+    margin: 0 160px 32px 160px;
+}
+
+.recent-headline-title {
+    height: 48px;
+    margin-bottom: 24px;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: "Fira Sans", serif;
+    color: #0E0E0E;
+}
+
+.recent-headline-subtitle {
+    height: 48px;
+    width: 1280px;
+    color: rgba(14, 14, 14, 0.7);
+    font-family: "Fira Sans", serif;
+}
+
+.recent-news-container {
+    width: 1280px;
+    margin: 0 160px 80px 160px;
+}
+
+.recent-news-section-1 {
+    width: 1280px;
+    height: 402px;
+    padding: 48px;
+    border-radius: 24px;
+    background-color: white;
+    margin-bottom: 24px;
+    display: flex;
+    gap: 32px;
+}
+
+.news-card-left {
+    width: 406px;
+    height: 306px;
+    margin: 48px 0 48px 48px;
+}
+
+.news-card {
+    border-radius: 24px;
+}
+
+.news-card-right {
+    width: 744px;
+    height: 290px;
+    margin: 56px 48px 56px 0;
+}
+
+.news-card-title {
+    width: 744px;
+    height: 38px;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: "Fira Sans", serif;
+    margin-bottom: 12px;
+}
+
+.tv-logo {
+    height: 40px;
+    width: 134px;
+    margin-bottom: 12px;
+}
+
+.duration {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 12px;
+    font-family: "Fira Sans", serif;
+    line-height: 24px;
+    color: rgba(14, 14, 14, 0.7);
+}
+
+.detail-news {
+    width: 744px;
+    height: 72px;
+    line-height: 24px;
+    color: rgba(14, 14, 14, 0.7);
+    font-family: "Fira Sans", serif;
+    margin-bottom: 32px;
+}
+
+.read-more-btn {
+    width: 150px;
+    height: 48px;
+    padding: 13px 26px;
+    background-color: #006A50;
+    border-radius: 8px;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: "Fira Sans", serif;
+}
+
+.recent-news-section-2 {
+    width: 1280px;
+    height: 402px;
+    padding: 48px;
+    border-radius: 24px;
+    background-color: white;
+    margin-bottom: 24px;
+    display: flex;
+    gap: 32px;
+}
+
+.news-card-left-2 {
+    margin: 56px 0 56px 48px;
+}
+
+.news-card-right-2 {
+    width: 406px;
+    height: 306px;
+    margin: 48px 0 48px 48px;
+}
+
+.news-card-2 {
+    border-radius: 24px;
+}
+
+/* recent news ends-here */
+
+/* donation is given here */
+.donation {
+    width: 1280px;
+}
+
+.donation-container {
+    margin: 0 160px 80px 160px;
+    text-align: center;
+}
+
+.donation-headline {
+    height: 120px;
+    width: 1280px;
+    text-align: center;
+    margin-bottom: 32px;
+}
+
+.donation-title {
+    height: 48px;
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+    font-family: "Fira Sans", serif;
+    margin-bottom: 24px;
+}
+
+.donation-subtitle {
+    height: 48px;
+    width: 1104px;
+    line-height: 24px;
+    margin: 0 88px;
+    font-family: "Fira Sans", serif;
+    color: rgba(14, 14, 14, 0.7);
+}
+
+.donation-amount {
+    width: 1280px;
+    height: 128px;
+    margin: 0 104.5px 32px 104.5px;
+    display: flex;
+    gap: 24px;
+}
+
+.amount {
+    width: 240px;
+    height: 128px;
+    border-radius: 16px;
+    background-color: white;
+    border: none;
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+}
+
+.amount-color {
+    background-color: #C6E4D6;
+}
+
+.in-amount {
+    margin: 0 124px 32px 80px;
+    width: 1032px;
+    height: 64px;
+    padding: 20px 40px;
+    color: rgba(14, 14, 14, 0.15);
+    border: none;
+    text-align: center;
+    font-family: "Fira Sans", serif;
+}
+
+.done-btn {
+    width: 160px;
+    height: 56px;
+    margin: 0 564.5px;
+    padding: 17px 34px;
+    border-radius: 8px;
+    background-color: #006A50;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: "Fira Sans", serif;
+}
+
+/* donation ends here */
+
+/* newsletter */
+.newsletter {
+    height: 395px;
+    margin: 80px;
+}
+
+.newsletter-container {
+    margin: 0 160px 80px 200px;
+    padding: 80px 100px;
+    background-color: #C6E4D6;
+    text-align: center;
+    border-radius: 24px;
+}
+
+.newsletter-box {
+    height: 235px;
+}
+
+.newsletter-headline {
+    margin: 0 64px 16px 64px;
+}
+
+.newsletter-title {
+    height: 48px;
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+    font-family: "Fira Sans", serif;
+    margin-bottom: 16px;
+}
+
+.newsletter-subtitle {
+    line-height: 24px;
+    color: rgba(14, 14, 14, 0.7);
+    font-family: "Fira Sans", serif;
+    margin-bottom: 24px;
+}
+
+.subscribers {
+    display: flex;
+    gap: 0;
+    margin: 0 265px 24px 265px;
+}
+
+.email {
+    width: 600px;
+    height: 55px;
+    padding: 18px 40px;
+    border-radius: 5px;
+    font-family: "Fira Sans", serif;
+    color: rgba(14, 14, 14, 0.3);
+}
+
+.subscribe-btn {
+    width: 150px;
+    padding: 17px 34px;
+    background-color: #006A50;
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.spam {
+    color: rgba(14, 14, 14, 0.7);
+    font-family: "Fira Sans", serif;
+}
+
+/* newsletter */
+/* footer */
+footer {
+    text-align: center;
+    background-color: white;
+    height: 226px;
+}
+
+.footer-title {
+    padding-top: 50px;
+    padding-bottom: 32px;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: "Fira Sans", serif;
+}
+
+.size {
+    margin: 0 239px;
+    color: rgba(14, 14, 14, 0.1);
+}
+
+.socials {
+    padding-top: 32px;
+}
+
+/* footer */
